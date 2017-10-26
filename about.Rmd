@@ -1,0 +1,52 @@
+---
+title: "Jian Zou"
+output:
+  html_document: 
+    toc: true
+    toc_float: true
+---
+<br><br>
+
+
+### Education                                                               
+
+**Columbia University, Mailman School of Public Health, New York, NY** (*Expected June 2019*)  
+MS in Biostatistics (Theory and Method track)
+
+**Central China Normal University, School of Life Science, Wuhan, China** (*June 2017*)  
+BS in Biology and Chemistry (Dual Degree)‖GPA: 3.85/4.0  
+- Excellent Graduate  
+- Research Assistant at Laboratory of Environmental Biomedicine  
+- Member of a specialized research-oriented interdisciplinary program under Life Science  
+<br><br>
+
+### Experience
+**Intern**, Information Division, Shenzhen Center for Disease Control and Prevention *July – August 2016*  
+- Understood the sampling process of mortality surveillance system  
+- Handled missing values and made quality check of citizen death and air pollution data  
+- Participated in the correlation analysis of the air pollution and cardiovascular mortality  
+<br>
+**Team Leader**, National University Students Innovation Program *March – December 2015*  
+Research Project: Application of Glutathione to Antagonize H2O2-induced Oxidative Stress in Rat Tracheal Epithelial Cells (sponsored by the Ministry of Education of the P.R. China)  
+- Designed experiment and procedure  
+- Evaluated the activity and the level of oxidative stress of NR8383 and RTE cells  
+- Processed and visualized experimental data  
+- Won second prize at National Life Science Innovation Experiment Contest  
+<br>
+**Participant**, Extensive Training Course  *May – June 2015*  
+Program: Identifying Chemical Carcinogens  
+- Sorted data about chemical carcinogens with international classification methods  
+- Delivered a presentation about the carcinogenicity of formaldehyde based on literature research  
+<br>
+**Editor**, Central China Normal University YaoLan Magazine *September 2013 – September 2014*  
+- Edited manuscripts for novel section  
+- Organized club activities  
+<br><br>
+
+### Publication  
+**Jian Zou**, Jinbo Yu, Yuqing Zhu, Jiali Zhu, Jing Du, & Xu Yang (2016). “Application of Glutathione to Antagonize H2O2-induced Oxidative Stress in Rat Tracheal Epithelial Cells”, Frontiers in Biology (ISSN: 1674-7992) 
+
+
+
+
+
